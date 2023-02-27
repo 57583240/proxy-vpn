@@ -1,0 +1,13 @@
+{
+	"files.exclude": {
+		"node_modules":true,
+		".vscode":true,
+		"package-lock.json":true,
+		".eslintrc.json":true,
+		".gitignore":true,
+		".eslintignore":true,
+		"nodemon.json":true,
+		".dockerignore":true
+	}
+}
+
